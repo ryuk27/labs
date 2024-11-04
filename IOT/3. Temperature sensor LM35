@@ -1,4 +1,4 @@
-![LM35 Temperature Sensor](github.com/ryuk27/labs/src/lm35.png)
+![image](https://github.com/user-attachments/assets/057d0690-9067-43c3-a408-5772b51ecbc9)
 
 int sensorValue = 0;
 
