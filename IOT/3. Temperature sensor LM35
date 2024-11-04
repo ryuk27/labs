@@ -1,4 +1,4 @@
-
+Image : src/lm35.png
 Code :
 int sensorValue = 0;
 
