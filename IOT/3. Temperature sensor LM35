@@ -1,4 +1,4 @@
-![LM35 Temperature Sensor](../src/lm35.png)
+![LM35 Temperature Sensor](labs/src/lm35.png)
 Code :
 int sensorValue = 0;
 
