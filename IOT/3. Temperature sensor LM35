@@ -1,5 +1,8 @@
-![image](https://github.com/user-attachments/assets/057d0690-9067-43c3-a408-5772b51ecbc9)
+# LM35 Temperature Sensor
 
+![LM35 Temperature Sensor](https://i.imgur.com/LDGBNpZ.png)
+
+```cpp
 int sensorValue = 0;
 
 void setup() {
@@ -8,7 +11,7 @@ void setup() {
 }
 
 void loop() {
-    sensorValue = ((analogRead(A0) / 1023.00)*100);
+    sensorValue = ((analogRead(A0) / 1023.00) * 100);
     Serial.println("Temperature");
     Serial.println(sensorValue);
   
