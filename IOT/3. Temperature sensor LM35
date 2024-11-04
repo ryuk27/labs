@@ -1,4 +1,4 @@
-![LM35 Temperature Sensor](labs/src/lm35.png)
+![LM35 Temperature Sensor](github.com/ryuk27/labs/src/lm35.png)
 Code :
 int sensorValue = 0;
 
